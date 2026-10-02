@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imokhai C. O. Nathan</h1>
-<h3 align="center">I am a software engineer and Computer Science graduate specializing in building high-performance, decoupled web applications. I focus on bridging robust backend data integrity with clean, modern, and type safe frontend interfaces.
+<h3 align="left">I am a software engineer and Computer Science graduate specializing in building high-performance, decoupled web applications. I focus on bridging robust backend data integrity with clean, modern, and type safe frontend interfaces.
 
 From engineering decoupled transaction platforms to optimizing database query paths with B-Tree indexing, I build scalable digital solutions that transform manual workflows into fast, secure web applications.</h3>
 
