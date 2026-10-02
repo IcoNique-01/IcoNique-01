@@ -1,46 +1,143 @@
-<h1 align="center">Hi 👋, I'm Imokhai C. O. Nathan</h1>
-<h3 align="left">I am a software engineer and Computer Science graduate specializing in building high-performance, decoupled web applications. I focus on bridging robust backend data integrity with clean, modern, and type safe frontend interfaces.
+<div align="center">
 
-From engineering decoupled transaction platforms to optimizing database query paths with B-Tree indexing, I build scalable digital solutions that transform manual workflows into fast, secure web applications.</h3>
+# Hi 👋, I'm Imokhai C. O. Nathan
 
-<p align="center">
-  <a href="https://imokhai-nathan-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-  <a href="https://x.com/N_eithan02"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:nathanimokhai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+**Software Engineer · Full-Stack · Backend & Data Integrity · Transaction Systems**
 
----
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imokhai-nathan-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/N_eithan02)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathanimokhai@gmail.com)
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IcoNique-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IcoNique-01&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcoNique-01&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IcoNique-01&theme=tokyonight" width="100%" />
-</p>
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Skills
+## About
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend & DB** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) |
-| **Tools** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+I'm a **software engineer and Computer Science graduate** building high-performance web applications, with a focus on **robust backend data integrity** and **clean, type-safe frontend interfaces**.
+
+My work covers the full path from user interface to database: **decoupled transaction platforms**, **authenticated APIs**, and **optimized query paths** (including B-Tree indexing) that turn manual workflows into fast, secure web applications.
+
+I'm especially interested in systems where **correctness matters**: money, records, and operations that must stay consistent when things go wrong.
 
 ---
 
-### 🚀 Featured Projects
+## GitHub Activity
 
-- **[Grow In Tech LMS](https://github.com/IcoNique-01)**: Next.js + Laravel Sanctum LMS portal with JWT authentication.
-- **[ApexLog Operation Hub](https://github.com/IcoNique-01/apexlog-operation-hub)**: Unified transaction logging platform for logistics.
-- **[Brand Enugu Portal](https://github.com/IcoNique-01/brand-enugu)**: Responsive promotional web portal highlighting culture and tourism.
+<div align="center">
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=IcoNique-01&theme=github-dark&hide_border=true" alt="GitHub streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcoNique-01&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top languages" />
+
+</div>
+
+---
+
+## Featured Projects
+
+### 🚚 [ApexLog Operation Hub](https://github.com/IcoNique-01/apexlog-operation-hub)
+[One-line problem it solves.] → [Measurable outcome.]
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+[Repo](https://github.com/IcoNique-01/apexlog-operation-hub) · [API](https://github.com/IcoNique-01/apexlog-api) · [Live demo](#)
+
+---
+
+### 🎓 [Grow In Tech LMS](#)
+[One-line problem it solves.] → [Measurable outcome.]
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel_Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+[Repo](#) · [Live demo](#)
+
+---
+
+### 🌍 [Brand Enugu Portal](#)
+[One-line problem it solves.] → [Measurable outcome.]
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+[Repo](#) · [Live demo](#)
+
+---
+
+## Tech Stack
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <b>Languages</b><br><br>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    </td>
+    <td valign="top" width="50%">
+      <b>Backend &amp; APIs</b><br><br>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square" />
+      <img src="https://img.shields.io/badge/Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Frontend</b><br><br>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+    </td>
+    <td valign="top">
+      <b>Data</b><br><br>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Indexing_&_Query_Tuning-555555?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Tools &amp; Workflow</b><br><br>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+    </td>
+    <td valign="top">
+      <b>Currently adding</b><br><br>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHPUnit-777BB4?style=flat-square&logo=php&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## Open Source
+
+| Project | Contribution | Status |
+|---|---|---|
+| [Project name](#) | [Short description of the fix or issue] | ![status](https://img.shields.io/badge/merged-8957E5?style=flat-square) |
+| [Project name](#) | [Short description] | ![status](https://img.shields.io/badge/open-2DA44E?style=flat-square) |
+
+---
+
+## Engineering Principles
+
+I value **correctness over cleverness**, clear boundaries between services, and data integrity above all. I prefer boring, reliable solutions, measurable performance gains, and tests that protect real behavior.
+
+---
+
+<div align="center">
+
+**Connect:** [Portfolio](https://imokhai-nathan-portfolio.netlify.app/) · [LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · [X](https://x.com/N_eithan02) · [Email](mailto:nathanimokhai@gmail.com)
+
+</div>
