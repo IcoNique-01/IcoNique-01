@@ -34,40 +34,6 @@ I'm especially interested in systems where **correctness matters**: money, recor
 
 ---
 
-## Featured Projects
-
-### 🚚 [ApexLog Operation Hub](https://github.com/IcoNique-01/apexlog-operation-hub)
-[One-line problem it solves.] → [Measurable outcome.]
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-[Repo](https://github.com/IcoNique-01/apexlog-operation-hub) · [API](https://github.com/IcoNique-01/apexlog-api) · [Live demo](#)
-
----
-
-### 🎓 [Grow In Tech LMS](#)
-[One-line problem it solves.] → [Measurable outcome.]
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel_Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-[Repo](#) · [Live demo](#)
-
----
-
-### 🌍 [Brand Enugu Portal](#)
-[One-line problem it solves.] → [Measurable outcome.]
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-[Repo](#) · [Live demo](#)
-
----
 
 ## Tech Stack
 
@@ -118,15 +84,6 @@ I'm especially interested in systems where **correctness matters**: money, recor
     </td>
   </tr>
 </table>
-
----
-
-## Open Source
-
-| Project | Contribution | Status |
-|---|---|---|
-| [Project name](#) | [Short description of the fix or issue] | ![status](https://img.shields.io/badge/merged-8957E5?style=flat-square) |
-| [Project name](#) | [Short description] | ![status](https://img.shields.io/badge/open-2DA44E?style=flat-square) |
 
 ---
 
