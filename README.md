@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Imokhai C. O. Nathan
 
-**Software Engineer · Full-Stack · Backend & Data Integrity · Transaction Systems**
+**Software Engineer · Full-Stack · Backend & Data Integrity**
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imokhai-nathan-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
