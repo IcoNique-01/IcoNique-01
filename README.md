@@ -28,6 +28,7 @@ I'm especially interested in systems where **correctness matters**: money, recor
 <div align="center">
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=IcoNique-01&theme=github-dark&hide_border=true" alt="GitHub streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcoNique-01&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top languages" />
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IcoNique-01&theme=github_dark" alt="Top languages" />
 
 </div>
