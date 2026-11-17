@@ -25,13 +25,26 @@ I'm especially interested in systems where **correctness matters**: money, recor
 
 ## GitHub Activity
 
-<div align="center">
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=IcoNique-01&theme=github-dark&hide_border=true" alt="GitHub streak" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcoNique-01&layout=compact&theme=github-dark&hide_border=true&langs_count=6" alt="Top languages" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IcoNique-01&theme=github_dark" alt="Top languages" />
-
-</div>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="./generated/overview.svg" alt="IcoNique-01's GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="./generated/languages.svg" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="./generated/streak.svg" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="./generated/activity.svg" alt="GitHub Activity Graph" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
